@@ -1,3 +1,3 @@
-package pkg
+package gopkg
 
 const VERSION = 1.0
